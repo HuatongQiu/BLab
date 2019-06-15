@@ -1,0 +1,4 @@
+Added Component: Designator=P5(KF128-3.81-3P)
+Added Pin To Net: NetName=GPIO_5 Pin=P5-1
+Added Pin To Net: NetName=NetP5_2 Pin=P5-2
+Added Pin To Net: NetName=GPIO_4 Pin=P5-3

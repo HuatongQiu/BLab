@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=P5 Old Footprint=KF2EDGK-2.54-LI-2P New Footprint=KF2EDGK-2.54-LI-3P
+Added Pin To Net: NetName=GPIO_4 Pin=P5-3
