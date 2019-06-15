@@ -16,4 +16,4 @@
 
 ## 3. BLab2019年 年度视频计划
 
-![2019年主题计划](D:\vlog视频\2019年年度计划.jpg)
+![2019年主题计划](https://github.com/BruceAKABear/BLab/blob/master/2019%E5%B9%B4%E5%B9%B4%E5%BA%A6%E8%AE%A1%E5%88%92.jpg)
